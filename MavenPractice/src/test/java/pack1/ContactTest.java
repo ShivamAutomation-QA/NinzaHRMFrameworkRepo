@@ -9,6 +9,12 @@ public class ContactTest {
 	{
 		System.out.println("execute createContactTest");
 	}
+	
+	@Test
+	public void updateContactTest()
+	{
+		System.out.println("execute updateContactTest");
+	}
 
 	@Test
 	public void modifyContactTest()
